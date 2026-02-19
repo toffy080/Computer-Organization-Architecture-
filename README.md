@@ -1,2 +1,2 @@
 # Computer-Organization-Architecture-
-Projects where I used Quartus II to develop and simulate multiple VHDL designs, analyze waveform outputs, and implement them on an FPGA board.
+Designed, simulated, and verified multiple digital circuits using VHDL in Quartus II, analyzed waveform results for functional validation, and deployed the designs onto an FPGA board for hardware testing.
